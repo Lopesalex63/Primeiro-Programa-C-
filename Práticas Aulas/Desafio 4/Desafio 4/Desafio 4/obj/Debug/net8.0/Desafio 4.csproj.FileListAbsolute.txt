@@ -1,0 +1,14 @@
+C:\Users\alex_junior\Desktop\Curso Orientação a Objeto C#\Curso 1\Práticas Aulas\Desafio 4\Desafio 4\Desafio 4\bin\Debug\net8.0\Desafio 4.exe
+C:\Users\alex_junior\Desktop\Curso Orientação a Objeto C#\Curso 1\Práticas Aulas\Desafio 4\Desafio 4\Desafio 4\bin\Debug\net8.0\Desafio 4.deps.json
+C:\Users\alex_junior\Desktop\Curso Orientação a Objeto C#\Curso 1\Práticas Aulas\Desafio 4\Desafio 4\Desafio 4\bin\Debug\net8.0\Desafio 4.runtimeconfig.json
+C:\Users\alex_junior\Desktop\Curso Orientação a Objeto C#\Curso 1\Práticas Aulas\Desafio 4\Desafio 4\Desafio 4\bin\Debug\net8.0\Desafio 4.dll
+C:\Users\alex_junior\Desktop\Curso Orientação a Objeto C#\Curso 1\Práticas Aulas\Desafio 4\Desafio 4\Desafio 4\bin\Debug\net8.0\Desafio 4.pdb
+C:\Users\alex_junior\Desktop\Curso Orientação a Objeto C#\Curso 1\Práticas Aulas\Desafio 4\Desafio 4\Desafio 4\obj\Debug\net8.0\Desafio 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_junior\Desktop\Curso Orientação a Objeto C#\Curso 1\Práticas Aulas\Desafio 4\Desafio 4\Desafio 4\obj\Debug\net8.0\Desafio 4.AssemblyInfoInputs.cache
+C:\Users\alex_junior\Desktop\Curso Orientação a Objeto C#\Curso 1\Práticas Aulas\Desafio 4\Desafio 4\Desafio 4\obj\Debug\net8.0\Desafio 4.AssemblyInfo.cs
+C:\Users\alex_junior\Desktop\Curso Orientação a Objeto C#\Curso 1\Práticas Aulas\Desafio 4\Desafio 4\Desafio 4\obj\Debug\net8.0\Desafio 4.csproj.CoreCompileInputs.cache
+C:\Users\alex_junior\Desktop\Curso Orientação a Objeto C#\Curso 1\Práticas Aulas\Desafio 4\Desafio 4\Desafio 4\obj\Debug\net8.0\Desafio 4.dll
+C:\Users\alex_junior\Desktop\Curso Orientação a Objeto C#\Curso 1\Práticas Aulas\Desafio 4\Desafio 4\Desafio 4\obj\Debug\net8.0\refint\Desafio 4.dll
+C:\Users\alex_junior\Desktop\Curso Orientação a Objeto C#\Curso 1\Práticas Aulas\Desafio 4\Desafio 4\Desafio 4\obj\Debug\net8.0\Desafio 4.pdb
+C:\Users\alex_junior\Desktop\Curso Orientação a Objeto C#\Curso 1\Práticas Aulas\Desafio 4\Desafio 4\Desafio 4\obj\Debug\net8.0\Desafio 4.genruntimeconfig.cache
+C:\Users\alex_junior\Desktop\Curso Orientação a Objeto C#\Curso 1\Práticas Aulas\Desafio 4\Desafio 4\Desafio 4\obj\Debug\net8.0\ref\Desafio 4.dll
